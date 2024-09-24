@@ -8,4 +8,4 @@ DST Group Project
 * Matthew W
 * Alan G
 
-This project has a 25/25/25/25 equity split betwen the two project partners.
+This project has a 25/25/25/25 equity split betwen the four project partners.
