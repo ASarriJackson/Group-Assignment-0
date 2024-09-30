@@ -1,0 +1,6 @@
+Initially setting up GitHub was a slightly tedious, but after that proved an effective way
+ of sharing and collaberaing our code. We all worked on VScode to produce our .ipynb files, 
+ this was also a bit challenging to set up due to have to install Anaconda and set up our
+ virtual environments. We all think choosing to use VScode was appropriate due to its 
+ seemless integration with github.
+
